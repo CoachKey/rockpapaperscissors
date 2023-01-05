@@ -1,0 +1,1 @@
+Coded a simple rock paper scissors game using python3 where the user can play against the computer in the game. 
